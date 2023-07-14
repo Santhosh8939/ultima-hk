@@ -1,0 +1,64 @@
+.sparkle-sml {
+    width: 15px;
+    height: 15px;
+    filter: blur(4px);
+    animation-name: twinkle;
+    animation-iteration-count: infinite;
+}
+
+.sparkle-med {
+    width: 35px;
+    height: 35px;
+    filter: blur(12px);
+    animation-name: twinkle;
+    animation-iteration-count: infinite;
+}
+
+.sparkle-lrg {
+    width: 50px;
+    height: 50px;
+    filter: blur(16px);
+    animation-name: twinkle;
+    animation-iteration-count: infinite;
+}
+
+.star-speed-0 {
+    animation-duration: 0s;
+}
+
+.star-speed-1 {
+    animation-duration: 1s;
+}
+.star-speed-2 {
+    animation-duration: 2s;
+}
+.star-speed-3 {
+    animation-duration: 3s;
+}
+.star-speed-4 {
+    animation-duration: 4s;
+}
+.star-speed-5 {
+    animation-duration: 5s;
+}
+.star-speed-6 {
+    animation-duration: 6s;
+}
+.star-speed-7 {
+    animation-duration: 7s;
+}
+.star-speed-8 {
+    animation-duration: 8s;
+}
+.star-speed-9 {
+    animation-duration: 9s;
+}
+.star-speed-10 {
+    animation-duration: 10s;
+}
+
+@keyframes twinkle {
+    20% {
+      opacity: 0.1;
+    }
+  }

@@ -1,0 +1,13 @@
+.reward-title, .reward-title>sup {
+    background: radial-gradient(75.48% 1771.99% at 89.26% -12.39%, #FFFFFF 0%, #949494 48.24%, #AB9834 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.reward-text>a{
+    padding-top: 16px;
+    border-bottom: solid 1px #AB9834;
+    color: #AB9834;
+    display: inline-block;
+}

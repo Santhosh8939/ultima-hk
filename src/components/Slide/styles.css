@@ -1,0 +1,17 @@
+.slide-title {
+    font-style: normal;
+    font-weight: 300;
+    line-height: 54px;
+    text-align: center;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+}
+
+.slide-text {
+    font-size: 14px;
+    line-height: 18px;
+    /* or 129% */
+
+    text-align: center;
+    letter-spacing: 0.1em;
+}

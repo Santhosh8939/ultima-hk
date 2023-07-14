@@ -1,0 +1,23 @@
+.panelHolder {
+    width: 287px;
+    height: 463px;    
+}
+@media only screen 
+   and (max-width : 768px) {
+    .panelHolder {
+        width: 230px;
+        height: 410px;    
+    }
+}
+
+@media only screen 
+   and (max-width : 420px) {
+    .panelHolder {
+        width: 170px;
+        height: 320px;    
+    }
+
+    .smallerTitle {
+        font-size: 20px;
+    }
+}

@@ -1,0 +1,28 @@
+.gradient-text{
+    font-family:"Abril Fatface", sans-serif;
+    background: linear-gradient(to right, #AB9834,#949494, #FFFFFF);
+    background-size: 200% 200%;
+    animation: rainbow 2s ease-in-out infinite;
+    background-clip: text;
+    -webkit-background-clip:text;
+    color: #FFFFFF;    
+    display:block;
+    transition: color .2s ease-in-out;
+    line-height: 36px;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+  }
+  .gradient-text:hover{
+    color:rgba(0,0,0,0);
+  }
+  @keyframes rainbow { 
+    0%{background-position:left}
+    50%{background-position:right}
+    100%{background-position:left}
+  }
+
+  .gradient-bar {
+    background: linear-gradient(to right, #AB9834,#949494, #FFFFFF);
+    height: 5px;
+    width: 100%;
+  }

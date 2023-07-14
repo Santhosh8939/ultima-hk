@@ -1,0 +1,40 @@
+.header-title {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 46px;
+    text-align: center;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+}
+
+.video-title {
+    font-weight: 250;
+    font-size: 70px;
+    line-height: 84px;
+    text-align: center;
+    letter-spacing: 0.4em;
+    background: radial-gradient(75.48% 1771.99% at 89.26% -12.39%, #FFFFFF 0%, #949494 48.24%, #AB9834 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+@media only screen 
+   and (max-width : 768px) {
+    .video-title {
+        font-weight: 250;
+        font-size: 48px;
+        line-height: 58px;
+        text-align: center;
+        letter-spacing: 0.4em;
+        background: radial-gradient(75.48% 1771.99% at 89.26% -12.39%, #FFFFFF 0%, #949494 48.24%, #AB9834 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+    }
+}
+
+.terms-header {
+    min-height: 600px;
+}

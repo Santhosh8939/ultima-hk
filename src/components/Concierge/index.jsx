@@ -16,8 +16,8 @@ const Concierge = () => {
             <div className="flex justify-center items-center mx-10 mt-10 md:mt-0 md:mx-0">
                 <div className='text-center md:text-left'>
                     <p className='text-left text-white text-sm leading-5 tracking-widest font-extralight' dangerouslySetInnerHTML={{__html: t('concierge.conciergeBody')}}></p>
-                    <GoldButton href='#/dedication' text={t('concierge.conciergeButton')} className='mt-16' />                                   
-                </div>
+                    <GoldButton href='#/dedication#ContactUs' text={t('concierge.conciergeButton')} className='mt-16' />                                   
+                     </div>
             </div>
         </div>
       </div>  

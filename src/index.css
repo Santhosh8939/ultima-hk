@@ -54,6 +54,13 @@ section {
     background-clip: text;
 }
 
+.link-text-1 {
+    text-decoration: underline;
+    color: #AB9834;
+    font-weight: 400;
+    
+}
+
 .link-text {
     border-bottom: solid 1px #AB9834;
     color: #AB9834;

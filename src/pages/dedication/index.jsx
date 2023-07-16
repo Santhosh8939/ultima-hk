@@ -36,7 +36,7 @@ const DedicationPage = () => {
                 <div className="container mx-auto relative">                    
                     <div className="grid lg:grid-cols-2 md:grid-cols-1 gap-2">
                         <div className="flex justify-center items-center bg-slash">
-                            <h2 className='text-2xl text-center tracking-custom leading-10 text-light-grey max-w-sm' dangerouslySetInnerHTML={{__html: t('dedication.conciergeTitle')}}></h2>
+                            <h2 className='text-2xl text-center tracking-custom leading-10 text-light-grey max-w-sm' id='ContactUs' dangerouslySetInnerHTML={{__html: t('dedication.conciergeTitle')}}></h2>
                         </div>
                         <div className="flex justify-center items-center mx-10 mt-10 md:mt-0 md:mx-0">
                             <div className='text-center md:text-left'>

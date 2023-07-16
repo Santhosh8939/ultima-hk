@@ -3,7 +3,7 @@
       "home": "主頁",
       "contactUs": "聯絡我們",
       "privileges": "極致禮遇",
-      "rewards": "Rewards",
+      "rewards": "",
       "termsAndCondition": "條款及細則",
       "citiUltima": "Citi ULTIMA合約",
       "personalData": "個人資料私隱條例",
@@ -25,13 +25,25 @@
       "pillarTitle": "REWARDS",
       "pillarCopy": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum, purus facilisis venenatis mollis, dui lorem tristique enim, ac interdum magna enim sed elit. Vivamus iaculis, diam dignissim ultrices tincidunt, urna orci condimentum libero, quis porttitor massa eros et nulla. ",
       "carouselTitle": "PRIVILEGIES",
-      "carouselCopy": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum, purus facilisis venenatis mollis, dui lorem tristique enim, ac interdum magna enim sed elit. Vivamus iaculis, diam dignissim ultrices tincidunt, urna orci condimentum libero, quis porttitor massa eros et nulla. ",
+      "carouselCopy": "有ULTIMA同行，非凡注定成為習慣。生活中每一種非凡體驗，從此一一待您發現。",
       "cardOneTitle":"尊尚獎賞",
       "cardOneBody":"本地及海外消費盡享HK$4 = 1里數 (12積分)*。 積分永久生效，讓您繼續賺取積分，隨時隨喜好兌換獎賞。",
       "cardTwoTitle":"1,440,000積分*<br/>年度獻禮",
       "cardTwoBody":"為歡迎您晉身Citi ULTIMA，我們為您呈獻1,440,000積分*。",
       "conciergeTitle":"請即致電您的專屬ULTIMA Lifestyle Relationship Manager，全面體驗最極致貼心的服務",
-      "conciergeBody":"無論是訂購花束傳送心意，於城中著名食府留座饗膳，抑或是籌備一個完美旅程，無論您提出的是簡單還是非一般的要求，無論您置身世界何地，您的 ULTIMA Lifestyle Relationship Manager都將全力以赴，實現您所願"
+      "conciergeBody":"無論是訂購花束傳送心意，於城中著名食府留座饗膳，抑或是籌備一個完美旅程，無論您提出的是簡單還是非一般的要求，無論您置身世界何地，您的 ULTIMA Lifestyle Relationship Manager都將全力以赴，實現您所願",
+      "pillarFootTitle1":"借定唔借？還得到先好借！",
+      "pillarFootTitle2":"",
+      "pillarFootCopy":"欲了解Citi ULTIMA之使用條款，請選擇下列各項：",
+      "footUrl1":"https://www.citibank.com.hk/chinese/credit-cards/pdf/credit-card-agreement.pdf",
+      "footUrl1Copy":"Citi ULTIMA合約 - 在使用您的信用卡前了解其條款及細則。",
+      "FfootUrl2":"https://www.citibank.com.hk/global_docs/mobile/welcome/ultima/tc/tnc.html",
+      "footUrl2Copy":"服務之條款及細則",
+      "footUrl3":"https://www.citibank.com.hk/chinese/info/privacy.htm",
+      "footUrl3Copy":"個人資料私隱條例 - 了解關於 «個人資料(私隱)條例» 的政策指引。",
+      "footUrl4":"https://www.citibank.com.hk/english/credit-cards/pdf/fee-schedule.pdf",
+      "footUrl4Copy":"資料概要及服務收費表"
+
    },
    "luxuries":{
       "header":"ULTIMATE <br/>LUXURIES",
@@ -40,9 +52,9 @@
       "copy":"ULTIMA privileges are curated to be unique, inspiring and unforgettable."
    },
    "journeys":{
-      "header":"非凡遊歷",
+      "header":"ULTIMATE HORIZONS",
       "preTitle":"Travel",
-      "subCopy":"為您帶來全球最矜貴的旅行禮遇及保障，令您安心探索世界每一處最精彩難忘的體驗",
+      "subCopy":"貴為The Chosen Few的您，大可隨超凡雅興傲遊天下，我們會為您打點最完滿、最優越的出行安排。",
       "offer1Type":"",
       "offer1Title":"機票優惠 <br/>Companion Travel",
       "offer1Button":"機票優惠 Companion Travel",
@@ -281,9 +293,9 @@
       "offer18AccessCopy":""
    },
    "tastemakers":{
-      "header":"非凡品味",
+      "header":"ULTIMATE INDULGENCE",
       "preTitle":"Dining & Lifestyle",
-      "subCopy":"一切米芝蓮星級的味覺藝術，及一切世界頂級的品味經歷，隨您所想，一一盡嘗",
+      "subCopy":"頂尖格調，由舌尖體現。今後您可優先預訂米芝蓮星級食府，享用無與倫比的餐飲禮遇，優越盡嚐天下味藝。",
       "conciergeTitle":"請即致電您的專屬ULTIMA Lifestyle Relationship Manager，全面體驗最極致貼心的服務",
       "conciergeBody":"無論是訂購花束傳送心意，於城中著名食府留座饗膳，抑或是籌備一個完美旅程，無論您提出的是簡單還是非一般的要求，無論您置身世界何地，您的 ULTIMA Lifestyle Relationship Manager都將全力以赴，實現您所願",
       "offer1Type":"",
@@ -353,9 +365,9 @@
       "offer5AccessCopy":""
    },
    "balance":{
-      "header":"非凡身心",
+      "header":"ULTIMATE BALANCE",
       "preTitle":"Health & Wellness",
-      "subCopy":"為您搜羅世界一流的身心靈體驗，讓您重塑身與心的最佳狀態",
+      "subCopy":"非凡成就，應以精彩閒暇，相輔平衡。我們為您精心安排不可多得的休閒體驗，從舉世知名的高球場，到極致尊貴的身心靈藝術，助您優越紓懷",
       "conciergeTitle":"請即致電您的專屬ULTIMA Lifestyle Relationship Manager，全面體驗最極致貼心的服務",
       "conciergeBody":"無論是訂購花束傳送心意，於城中著名食府留座饗膳，抑或是籌備一個完美旅程，無論您提出的是簡單還是非一般的要求，無論您置身世界何地，您的 ULTIMA Lifestyle Relationship Manager都將全力以赴，實現您所願",
       "offer1Type":"",
@@ -503,9 +515,9 @@
       "offer11AccessCopy":"有關服務之詳細及安排，請致電您的Citi ULTIMA Lifestyle Relationship Manager。"
    },
    "moments":{
-      "header":"非凡禮遇",
+      "header":"ULTIMATE MOMENTS",
       "preTitle":"Experiences",
-      "subCopy":"為您預留一連串無價的信用卡環球體驗，注定讓非常成為您的日常",
+      "subCopy":"為您預留一連串無價的信用卡環球體驗，注定讓非常成為您的日常。",
       "offer1Type":"mastercard",
       "offer1Title":"Corral de la Morería<br/>Spain",
       "offer1Button":"Corral de la Morería",
@@ -547,15 +559,16 @@
       "offer3AccessCopy":""
    },
    "delights":{
-      "header":"非凡矜歷",
+      "header":"ULTIMATE DELIGHTS",
       "preTitle":"Bespoke Offers",
-      "subCopy":"別人遙不可及的驚喜體驗及獨家盛事，唯您專享",
+      "subCopy":"別人遙不可及的驚喜體驗及獨家盛事，唯您尊享。",
       "conciergeTitle":"請即致電您的專屬ULTIMA Lifestyle Relationship Manager，全面體驗最極致貼心的服務",
       "conciergeBody":"無論是訂購花束傳送心意，於城中著名食府留座饗膳，抑或是籌備一個完美旅程，無論您提出的是簡單還是非一般的要求，無論您置身世界何地，您的 ULTIMA Lifestyle Relationship Manager都將全力以赴，實現您所願"
    },
    "rewards":{
       "header":"ULTIMATE <br/>Rewards",
       "subCopy":"",
+      "pillarTitle":"A WORLD OF REWARDS",
       "thankyouTitle":"1,440,000積分*<br/>年度獻禮",
       "thankyouCopy":"為歡迎您晉身Citi ULTIMA，我們為您呈獻1,440,000積分*。",
       "thankyouCopy2":"如您每年繼續使用 ULTIMA，我們將繼續贈送1,440,000積分*，以表謝意。積分不設兌換限期，您可憑積分兌換機票、酒店住宿、租車、禮券、飛行里數及現金回贈。<br/><br/>更多詳情請瀏覽：<a href='https://www.citibank.com.hk/english/credit-cards/thankyou-rewards.htm' target='_blank'>https://www.citibank.com.hk/chinese/credit-cards/thankyou-rewards.htm</a><br/><br/>* 1,440,000積分會於年費全數結帳後2個月存入基本卡會員之賬戶內。",
@@ -565,9 +578,9 @@
       "redeemCopy":"透過 Citi ThankYou Rewards 您可以205積分兌換HK$1現金回贈，以抵銷Citi ULTIMA 的簽賬。<br/><br/><a href='https://www.citirewards.com/cms/sites/globalrewards-hk-eng/index.page' target='_blank'>請按此以積分兌換您的獎賞！</a><br/><br/><a href='https://www.citirewards.com/cms/sites/globalrewards-hk-zho/terms-and-conditions.page' target='_blank'> 受有關條款及細則約束</a>。<br/><br/>* 會員於本地、海外及網上外幣簽賬每HK$4 (或其外幣之等值)，即可獲12積分(1里數)。「認可簽賬」不包括但不限於現金透支、銀行費用、信用卡結餘轉賬金額、折現計劃、「Quick Cash」套現分期計劃、繳付稅務局之稅項、賭場交易、網上繳款、透過快速支付系統(「轉數快」)進行之交易、動態貨幣兌換交易，以及未誌賬/已取消/已退款之交易。海外及網上外幣簽賬是指以港幣、人民幣或澳門幣以外貨幣所結算之交易(包括互聯網交易)。除特別註明外，同一認可信用卡之基本卡及附屬卡會員獲得之所有積分將全部列入基本卡會員之賬戶內。積分換領只適用於基本卡會員。"
    },
    "dedication":{
-      "header":"非凡禮待",
+      "header":"ULTIMATE DEDICATION",
       "preTitle":"聯絡我們",
-      "subCopy":"您的專屬Lifestyle Relationship Manager隨時候命, 助您實現每一個獨一無二的個人追求",
+      "subCopy":"由我們的Lifestyle Relationship Manager專誠向您展示完全個人化的禮賓服務。",
       "conciergeTitle":"請即致電您的專屬ULTIMA Lifestyle Relationship Manager，全面體驗最極致貼心的服務",
       "conciergeBody":"任何時候，Citi ULTIMA Lifestyle Relationship Manager 都竭誠為您服務，全面迎合您的品味生活及信用卡所需。無論是訂購花束傳送心意，於城中著名食府留座饗膳，抑或是籌備一個完美旅程，無論您提出的是簡單還是非一般的要求，無論您置身世界何地，您的 ULTIMA Lifestyle Relationship Manager都將全力以赴，實現您所願。<br/><br/>請即致電您的 ULTIMA Lifestyle Relationship Manager，全面體驗最貼心的服務。<br/><br/>* 服務若經 ULTIMA Lifestyle Relationship Manager預約必須以 ULTIMA 簽帳付款。",
       "247Title":"DIRECT ASSISTANCE",
@@ -701,7 +714,7 @@
    },
    "concierge":{
       "conciergeTitle":"請即致電您的專屬ULTIMA Lifestyle Relationship Manager，全面體驗最極致貼心的服務",
-      "conciergeBody":"無論是訂購花束傳送心意，於城中著名食府留座饗膳，抑或是籌備一個完美旅程，無論您提出的是簡單還是非一般的要求，無論您置身世界何地，您的 ULTIMA Lifestyle Relationship Manager都將全力以赴，實現您所願",
+      "conciergeBody":"無論是訂購花束傳送心意，於城中著名食府留座饗膳，抑或是籌備一個完美旅程，無論您提出的是簡單還是非一般的要求，無論您置身世界何地，您的 ULTIMA Lifestyle Relationship Manager都將全力以赴，實現您所願。",
       "conciergeButton": "聯絡我們"
    },
    "categoryCarousel":{
@@ -718,13 +731,16 @@
       "titleSix":"ULTIMATE",
       "subLineSix":"DEDICATION"
    },
+   "brandVideo":{
+      "pillarTitle":"ULTIMA極致之旅 待您探索"
+   },
    "footer":{
-      "paragraph1":"Citigroup.com is the global source of information about and access to financial services provided by the Citigroup family of companies.",
-      "paragraph2":"Copyright © 2023 Citigroup Inc.",
-      "paragraph3":"Citibank (Hong Kong) Limited.",
+      "paragraph1":"Copyright © 2023 Citigroup Inc. All rights reserved.",
+      "paragraph2":"Citi, Citibank, Citi and Arc Design used herein are service marks of Citigroup Inc., Citibank&nbsp;(Hong&nbsp;Kong) Limited,",
+      "paragraph3":"Citibank, N.A. Organized under the laws of U.S.A. with limited liability.",
       "link1Text": "條款及細則",
       "link1URL": "#/terms-and-conditions",
       "link2Text": "私隱條款",
-      "link2URL": "https://www.citibank.com.sg/gcb/footer/privacy.htm?lid=SGENCBGMSHETLPrivacy"
+      "link2URL": "https://www.citibank.com.hk/english/info/privacy/?lid=HKENCBGGNFOTLPRIVACY"
    }
 }

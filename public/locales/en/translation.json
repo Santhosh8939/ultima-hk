@@ -25,13 +25,25 @@
       "pillarTitle": "REWARDS",
       "pillarCopy": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum, purus facilisis venenatis mollis, dui lorem tristique enim, ac interdum magna enim sed elit. Vivamus iaculis, diam dignissim ultrices tincidunt, urna orci condimentum libero, quis porttitor massa eros et nulla. ",
       "carouselTitle": "PRIVILEGIES",
-      "carouselCopy": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum, purus facilisis venenatis mollis, dui lorem tristique enim, ac interdum magna enim sed elit. Vivamus iaculis, diam dignissim ultrices tincidunt, urna orci condimentum libero, quis porttitor massa eros et nulla. ",
+      "carouselCopy": "With ULTIMA, the extraordinary becomes a way of life. Explore the many privileges that are now yours to discover",
       "cardOneTitle":"Preferential Rewards",
       "cardOneBody":"12 Thank You<sup>SM</sup> Points (HK$4 = 1 mile) on all your local and overseas purchases*. Your Points are evergreen and will never expire, so you can keep earning Points until you are ready to redeem them.",
       "cardTwoTitle":"1,440,000 Points<br/>Your yearly thank you gift",
       "cardTwoBody":"As a welcome to the world of Citi ULTIMA, you receive 1,440,000 Points* with our compliments.",
       "conciergeTitle":"Contact your personal ULTIMA Lifestyle Relationship Manager for an ultimate life now.",
-      "conciergeBody":"From sending flowers, to booking tables at the most celebrated restaurants, planning the perfect getaways, and more, they help turn your requests into reality. However small or extraordinary, and no matter where in the world you may be, your ULTIMA Lifestyle Relationship Manager is here for you."
+      "conciergeBody":"From sending flowers, to booking tables at the most celebrated restaurants, planning the perfect getaways, and more, they help turn your requests into reality. However small or extraordinary, and no matter where in the world you may be, your ULTIMA Lifestyle Relationship Manager is here for you.",
+      "pillarFootTitle1":"To borrow or not to borrow?",
+      "pillarFootTitle2":"Borrow only if you can repay!",
+      "pillarFootCopy":"To find out more about the Citi ULTIMA terms of use, please select from the list below:",
+      "footUrl1":"https://www.citibank.com.hk/english/credit-cards/pdf/credit-card-agreement.pdf",
+      "footUrl1Copy":"Citi ULTIMA Agreement - Learn about the terms and conditions regarding the use of your credit card.",
+      "FfootUrl2":"https://www.citibank.com.hk/global_docs/mobile/welcome/ultima/en/tnc.html",
+      "footUrl2Copy":"Consolidated Terms & Conditions<br/>for all features",
+      "footUrl3":"https://www.citibank.com.hk/english/info/privacy.htm",
+      "footUrl3Copy":"Personal Data (Privacy) Ordinance<br/>Statement - Learn about the Policy Statement relating to the Personal Data (Privacy) Ordinance.",
+      "footUrl4":"https://www.citibank.com.hk/english/credit-cards/pdf/fee-schedule.pdf",
+      "footUrl4Copy":"Key Facts Statement and Fees Schedule"
+
    },
    "luxuries":{
       "header":"ULTIMATE <br/>LUXURIES",
@@ -42,7 +54,7 @@
    "journeys":{
       "header":"ULTIMATE <br/> HORIZONS",
       "preTitle":"Travel",
-      "subCopy":"Explore the most remarkable journeys all over the world, with the most precious travel-related privileges and comprehensive protection.",
+      "subCopy":"Wherever your sense of wonder leads you, the finest travel access and privileges await the chosen few.",
       "offer1Type":"",
       "offer1Title":"Airfare Privilege Program <br/>Companion Travel",
       "offer1Button":"Companion Travel",
@@ -283,7 +295,7 @@
    "tastemakers":{
       "header":"ULTIMATE <br/>INDULGENCE",
       "preTitle":"Dining & Lifestyle",
-      "subCopy":"Relish top-notch gourmet dining and unparalleled lifestyle experiences.",
+      "subCopy":"Revel in new flavour dimensions and ultimate artistry with priority bookings at Michelin-starred restaurants and exclusive dining privileges.",
       "conciergeTitle":"Contact your personal ULTIMA Lifestyle Relationship Manager for an ultimate life now.",
       "conciergeBody":"From sending flowers, to booking tables at the most celebrated restaurants, planning the perfect getaways, and more, they help turn your requests into reality. However small or extraordinary, and no matter where in the world you may be, your ULTIMA Lifestyle Relationship Manager is here for you.",
       "offer1Type":"",
@@ -355,7 +367,7 @@
    "balance":{
       "header":"ULTIMATE <br/>BALANCE",
       "preTitle":"Health & Wellness",
-      "subCopy":"Discover first-class health and wellness excitements to restore your body and mind.",
+      "subCopy":"Tee off in style at premium golf courses around the world, and soothe your body and mind with the most precious wellness treatments – all of which are made available to only a discerning few.",
       "conciergeTitle":"Contact your personal ULTIMA Lifestyle Relationship Manager for an ultimate life now.",
       "conciergeBody":"From sending flowers, to booking tables at the most celebrated restaurants, planning the perfect getaways, and more, they help turn your requests into reality. However small or extraordinary, and no matter where in the world you may be, your ULTIMA Lifestyle Relationship Manager is here for you.",
       "offer1Type":"",
@@ -466,7 +478,7 @@
    "moments":{
       "header":"ULTIMATE <br/>MOMENTS",
       "preTitle":"Experiences",
-      "subCopy":"Enjoy a range of most priceless worldwide Card member benefits, to turn your everyday into special occasions.",
+      "subCopy":"Enjoy a range of priceless worldwide Card member benefits, to turn your everyday into special occasions.",
       "offer1Type":"mastercard",
       "offer1Title":"Corral de la Morería<br/>Spain",
       "offer1Button":"Corral de la Morería",
@@ -530,6 +542,7 @@
    "rewards":{
       "header":"ULTIMATE <br/>Rewards",
       "subCopy":"",
+      "pillarTitle":"A WORLD OF REWARDS",
       "thankyouTitle":"1,440,000 Points<br/>Your yearly<br/>thank you gift",
       "thankyouCopy":"As a welcome to the world of Citi ULTIMA, you receive 1,440,000 Points* with our compliments.",
       "thankyouCopy2":"Every year, upon renewing your ULTIMA, you’ll receive an additional 1,440,000 Points* with our compliments. Your points don't expire and you may redeem them for flights, hotels, car rentals, vouchers, frequent flyer miles or a cash rebate.<br/><br/><a href='https://www.citibank.com.hk/english/credit-cards/thankyou-rewards.htm' target='_blank'>For more details please click here</a>.<br/><br/>*1,440,000 Points will be credited to the eligible Primary Member's account within two months of the annual fee being fully paid.",
@@ -540,7 +553,8 @@
    },
    "dedication":{
       "header":"ULTIMATE <br/>Dedication",
-      "subCopy":"Contact your dedicated Lifestyle Relationship Manager anytime, to turn your unique personalized pursues into reality.",
+      "preTitle":"DEDICATED SERVICES",
+      "subCopy":"Experience commitment personified through your dedicated Lifestyle Relationship Manager.",
       "conciergeTitle":"Contact your personal ULTIMA Lifestyle Relationship Manager for an ultimate life now.",
       "conciergeBody":"Your personal Lifestyle Relationship Manager is ready to assist you with your ULTIMA privileges and credit card related needs.<br/><br/>From sending flowers to booking tables at the most celebrated restaurants, planning the perfect getaways, and more. They help turn your requests into reality. However small or extraordinary, and no matter where in the world you may be, your ULTIMA Lifestyle Relationship Manager is here for you.<br/><br/>Experience dedicated service at its best.",
       "247Title":"DIRECT ASSISTANCE",
@@ -696,7 +710,7 @@
    },
    "concierge":{
       "conciergeTitle":"Contact your personal ULTIMA Lifestyle Relationship Manager for an ultimate life now.",
-      "conciergeBody":"From sending flowers, to booking tables at the most celebrated restaurants, planning the perfect getaways, and more, they help turn your requests into reality. However small or extraordinary, and no matter where in the world you may be, your ULTIMA Lifestyle Relationship Manager is here for you.",
+      "conciergeBody":"From sending flowers, to booking tables at the most celebrated restaurants, to planning the perfect getaway, and more. Let your Lifestyle Relationship Manager help turn your requests into reality. From the small to the extraordinary, no matter where in the world you may be, your ULTIMA Lifestyle Relationship Manager is here for you.",
       "conciergeButton": "Contact Us"
    },
    "categoryCarousel":{
@@ -713,6 +727,9 @@
       "titleSix":"ULTIMATE",
       "subLineSix":"DEDICATION"
    },
+   "brandVideo":{
+      "pillarTitle":"EXPLORE THE ULTIMA WORLD"
+   },
    "footer":{
       "paragraph1":"Copyright © 2023 Citigroup Inc. All rights reserved.",
       "paragraph2":"Citi, Citibank, Citi and Arc Design used herein are service marks of Citigroup Inc., Citibank&nbsp;(Hong&nbsp;Kong) Limited,",
@@ -720,6 +737,6 @@
       "link1Text": "Terms & Conditions",
       "link1URL": "#/terms-and-conditions",
       "link2Text": "Privacy",
-      "link2URL": "https://www.citibank.com.sg/gcb/footer/privacy.htm?lid=SGENCBGMSHETLPrivacy"
+      "link2URL": "https://www.citibank.com.hk/english/info/privacy/?lid=HKENCBGGNFOTLPRIVACY"
    }
 }

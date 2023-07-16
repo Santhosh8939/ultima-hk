@@ -82,6 +82,7 @@ function BrandVideo({
             playing ? 'hidden' : ''            
           )}>
             <div className=' grid-cols-1 text-center'>
+              <div style={{ paddingBottom: '4.5rem'}} className='text-white mt-4 uppercase text-lg tracking-widest font-extralight' dangerouslySetInnerHTML={{__html: t('brandVideo.pillarTitle')}}></div>
               <button className='w-14 h-14 rounded-full bg-yellow-gold/20 hover:bg-yellow-gold/5 round-gradient-border' onClick={() => handlePlayPause()} >
               {playing ? <img src={pauseButton} alt='Pause' /> : <img src={playButton} alt='play' />}            
               </button>            

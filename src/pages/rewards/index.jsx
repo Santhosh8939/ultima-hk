@@ -31,7 +31,10 @@ const RewardsPage = () => {
             </section>   
             <section className='bg-black pt-10 md:pt-52 pb-10 md:pb-52' data-scroll-section>
                 <StarField  />
-                <div className="container mx-auto relative">                    
+                <div className="container mx-auto relative"> 
+                <div>
+                    <h2 className='text-2xl text-center tracking-custom leading-10 text-light-grey'>{t('rewards.pillarTitle')}</h2>
+                 </div>                   
                     <div className="grid lg:grid-cols-2 md:grid-cols-1 gap-2">
                         <div className="flex justify-center items-center bg-slash">
                             <h2 className='text-2xl text-center tracking-custom leading-10 reward-title max-w-sm' dangerouslySetInnerHTML={{__html: t('rewards.thankyouTitle')}}></h2>

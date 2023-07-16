@@ -65,7 +65,9 @@ const DedicationPage = () => {
                                 <p className='text-left text-white text-sm leading-5 tracking-widest font-extralight privilege-text' dangerouslySetInnerHTML={{__html: t('dedication.overseasCopy')}}></p>    
                                 <ContactNumbers />
                             </div>
+                           
                         </div>
+                         
                     </div>
                 </div>  
             </section>

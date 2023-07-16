@@ -57,7 +57,15 @@ const ContactNumbers = () => {
                 <ContactTable region='southAmerica'/>
                 <span className='show-bullets' dangerouslySetInnerHTML={{__html: t('dedication.southAmerica')}}></span>
             </AccordionBody>
-        </Accordion>     
+        </Accordion>    
+
+        {/* new sec */}
+        <div>
+                            <a className='text-right reward-text text-sm leading-5 tracking-widest font-extralight link-text-1' href={t('dedication.footNextUrl')} target='_blank' rel='noreferrer'>
+                                <p className='text-right mt-5 link-text-1' dangerouslySetInnerHTML={{__html: t('dedication.footNextCopy')}}></p>
+                                </a>
+                            </div>
+                            {/* new sec close */} 
       </>
        );
  

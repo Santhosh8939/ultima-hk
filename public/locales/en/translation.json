@@ -565,7 +565,10 @@
       "asia":"",
       "northAmerica":"",
       "europe":"",
-      "southAmerica":""
+      "southAmerica":"",
+      "footNextCopy":"contact, as below",
+      "footNextUrl":"#/rewards"
+
    },
    "phoneNumbers": {
       "China": "+86 800 2860 0308",
